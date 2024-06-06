@@ -39,4 +39,4 @@ jobs:
         with:
           push: true
           context: .
-          tags: main:latest
+          tags: janani003/main:latest
